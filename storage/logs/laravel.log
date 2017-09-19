@@ -1,0 +1,12 @@
+[2017-09-19 07:20:41] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined function assest()' in C:\xampp\htdocs\test\storage\framework\views\7f020d12618ad01a24a6eae4e65542a0deb89218.php:17
+Stack trace:
+#0 {main}  
+[2017-09-19 07:20:50] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined function assest()' in C:\xampp\htdocs\test\storage\framework\views\7f020d12618ad01a24a6eae4e65542a0deb89218.php:17
+Stack trace:
+#0 {main}  
+[2017-09-19 07:21:06] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined function assest()' in C:\xampp\htdocs\test\storage\framework\views\7f020d12618ad01a24a6eae4e65542a0deb89218.php:17
+Stack trace:
+#0 {main}  
+[2017-09-19 07:21:10] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined function assest()' in C:\xampp\htdocs\test\storage\framework\views\7f020d12618ad01a24a6eae4e65542a0deb89218.php:17
+Stack trace:
+#0 {main}  
